@@ -15,4 +15,4 @@ The predictions can also be downloaded as a csv.
 ## Demo
 Demo of the streamlit app
 
-![alt text](media/2021-03-05 22-48-05.gif)
+![Streamlit app](media/2021-03-05 22-48-05.gif)
