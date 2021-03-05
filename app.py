@@ -9,6 +9,7 @@ import pandas as pd
 import base64
 
 # start of streanlit app
+st.set_page_config(page_title="Breast Cancer Detector")
 st.title("Breast Cancer Detector")
 
 # explanation of app
