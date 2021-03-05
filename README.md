@@ -1,6 +1,8 @@
 # Breast Cancer Detector(IDC) Streamlit 
 A streamlit app to predict if the images of breast tissues is cancerous or not.
+
 Try the app by clicking on this [link](https://breastcancerdetectorapp.herokuapp.com/)
+
 [Streamlit](https://streamlit.io/) is a python library that helps deploy your scripts onto the web.
 
 ## About 
