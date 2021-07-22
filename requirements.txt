@@ -3,3 +3,4 @@ requests==2.23.0
 streamlit==0.77.0
 pandas==1.1.5
 Pillow==8.1.0
+libglib==2.0-0
